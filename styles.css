@@ -1,0 +1,13 @@
+body {
+    background: url('https://i.pinimg.com/originals/36/30/00/363000c1b5735897d229b4d3f2504126.jpg');
+    background-size: cover; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    text-align: center;
+    text-justify: auto;
+    color: #000000b7;
+}
+
+img {
+    width: 100%;
+}
